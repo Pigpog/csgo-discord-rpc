@@ -12,3 +12,5 @@ Discord rich presence for Counter Strike Global Offensive
 3. Copy `gamestate_integration_rpc.cfg` file to `steamapps/common/Counter-Strike Global Offensive/csgo/cfg/`
 
 4. Run `node server.js` in the project directory
+
+5. Launch the game and the rich presence will start when you reach the main menu
