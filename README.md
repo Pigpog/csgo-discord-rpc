@@ -1,6 +1,8 @@
 # csgo-discord-rpc
 Discord rich presence for Counter Strike Global Offensive
 
+![Example](https://raw.githubusercontent.com/Pigpog/csgo-discord-rpc/master/example.png)
+
 (based on [this code sample from Valve](https://developer.valvesoftware.com/wiki/Counter-Strike:_Global_Offensive_Game_State_Integration#Sample_HTTP_POST_Endpoint_Server))
 
 ## Setup
