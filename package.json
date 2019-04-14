@@ -1,0 +1,29 @@
+{
+  "name": "csgo-discord-rpc",
+  "version": "1.0.0",
+  "description": "Discord rich presence client for Counter Strike Global Offensive",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Pigpog/csgo-discord-rpc.git"
+  },
+  "keywords": [
+    "csgo",
+    "discord",
+    "rpc"
+  ],
+  "author": "Pigpog",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Pigpog/csgo-discord-rpc/issues"
+  },
+  "homepage": "https://github.com/Pigpog/csgo-discord-rpc#readme",
+  "dependencies": {
+    "discord-rich-presence": "0.0.8",
+    "fs": "0.0.1-security",
+    "http": "0.0.0"
+  }
+}
